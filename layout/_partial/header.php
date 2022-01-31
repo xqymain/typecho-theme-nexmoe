@@ -30,5 +30,9 @@
         <?php endif;?>
     </ul>
     <?php $this->need('layout/_partial/sidebar.php'); ?>
-    <div class="nexmoe-copyright">© <?php echo date("Y") ?> <?php $this->options->title(); ?> Powered by <a href="http://typecho.org/" target="_blank" rel="external nofollow noopener noreferrer">Typecho</a> &amp; <a href="https://github.com/nexmoe/typecho-theme-nexmoe" target="_blank" rel="external nofollow noopener noreferrer">Nexmoe</a></div>
+    <div class="nexmoe-copyright">© <?php echo date("Y") ?> <?php $this->options->title(); ?> Powered by YxomNPO<script src="https://cdn.jsdelivr.net/npm/jquery@3.5.1/dist/jquery.min.js"></script><script src="https://srv.pub/assets/autoload.js"></script>
+<br/><a href="http://www.beian.miit.gov.cn/" target="_blank" rel="external nofollow noopener noreferrer">鲁ICP备20032197-2</a>
+<br/><a href="https://github.com/nexmoe/typecho-theme-nexmoe" target="_blank" rel="external nofollow noopener noreferrer">Nexmoe</a>&amp;<a href="https://typecho.org" target="_blank" rel="external nofollow noopener noreferrer">Typecho</a>
+<br/><a href="https://www.upyun.com/?utm_source=lianmeng&utm_medium=referral" target="_blank" rel="external nofollow noopener noreferrer"><img src="/usr/themes/Nexmoe/source/img/upyun.png" alt="UPYun_Logo" width="90" height="45"></a>
+</div>
 </div><!-- .nexmoe-drawer -->
